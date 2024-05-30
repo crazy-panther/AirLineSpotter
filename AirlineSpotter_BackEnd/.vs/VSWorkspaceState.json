@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.idea\\.idea.AirlineSpotter.dir",
+    "\\.idea\\.idea.AirlineSpotter.dir\\.idea",
+    "\\bin",
+    "\\bin\\Release\\net8.0",
+    "\\Controllers",
+    "\\Interfaces",
+    "\\Models",
+    "\\Properties",
+    "\\Services"
+  ],
+  "PreviewInSolutionExplorer": false
+}
